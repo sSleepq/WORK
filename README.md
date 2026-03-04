@@ -74,13 +74,15 @@
 Способы связи:
 
 - Личные сообщения:  
-  > *(Указать ссылку или способ связи)*
+  > <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/82b1360e-5105-4622-aec9-55bebb9ecda7" />
+
 
 - Дополнительный способ связи (при наличии):  
-  > *(Указать ссылку)*
+  > [MAX](https://max.ru/u/f9LHodD0cOKnjQrBS9dfu75zW9nPfD6YXrT2R7MxTkVFsRkdbcdvuKIPsJ0)
 
 ---
 
 **Рекомендуется внимательно ознакомиться с данным документом перед началом работы над дипломным проектом.**
+
 
 
